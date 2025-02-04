@@ -27,30 +27,29 @@
   }
   
   .card .textContainer {
-    width: 80%;
-    height: 80%;
-    margin: auto;
+    width: 90%;
+    height: 90%;
+    margin: 1px auto;
   }
   
   .card .textContainer #header {
-    font-size: 1.5rem;
-    margin: 60px auto;
+    font-size: 1.1rem;
+    margin: 5px auto;
   }
   
   .card p {
     font-family: "Emilys Candy", cursive;   
-    font-size: 1.1rem;
-    line-height: 1.4;
+    font-size: 1rem;
     color: var(--text);
     font-style: normal;
     text-align: center;
-    margin: 30px auto;
+    margin: 5px auto;
   }
 
-  .card img {
+  .card .textContainer img {
     width: 80%;
-    height: auto;
-    object-fit: cover;
+    height: 80%;
+    margin-left: 40px;
   }
   
   .card .front {
