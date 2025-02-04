@@ -46,6 +46,12 @@
     text-align: center;
     margin: 30px auto;
   }
+
+  .card img {
+    width: 80%;
+    height: auto;
+    object-fit: cover;
+  }
   
   .card .front {
     position: absolute;
